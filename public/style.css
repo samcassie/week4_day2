@@ -1,0 +1,19 @@
+body {
+    background-color: #F5F5DC;
+
+}
+
+#header {
+    display: flex;
+    height: 20vh;
+    background-color: #f7f7f2;
+    border-style: solid;
+    border-with: 5px;
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+#header h1 {
+    font-size: 72px;
+}
